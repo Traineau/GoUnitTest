@@ -1,0 +1,3 @@
+package GoUnitTest
+
+func add()
